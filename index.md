@@ -26,19 +26,19 @@ Estate planning, taxation, artifical intelligence.
 
 ## Education
 
-`May 2012`  
-__University of California, Hastings College of the Law, San Francisco, California__  
-- Juris Doctor  
+`May 2012`
+__University of California, Hastings College of the Law, San Francisco, California__
+- Juris Doctor
 
-`May 2009`  
+`May 2009`
 __University of Southern California, Los Angeles, California__
-_College of Letters, Arts, and Sciences_  
-- Bachelor of Arts, magna cum laude, Psychology, May 2009  
-- Minor in Neuroscience  
+_College of Letters, Arts, and Sciences_
+- Bachelor of Arts, magna cum laude, Psychology, May 2009
+- Minor in Neuroscience
 
-`Spring 2008`  
-__University College London, London, England__  
-- International Student Exchange Program  
+`Spring 2008`
+__University College London, London, England__
+- International Student Exchange Program
 
 
 ## Awards
