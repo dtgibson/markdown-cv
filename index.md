@@ -17,23 +17,31 @@ Probate Attorney at Los Angeles Superior Court.
 
 ### Specialized in
 
-Extensive knowledge in the areas of wills and trusts, guardianship, conservatorship, family law, and California civil procedure.
+Extensive knowledge in the areas of wills and trusts, guardianship, conservatorship, family law, and California civil procedure. 
 
-### Research interests
+Also specializes in law pertaining to collectives/cooperatives, cannabis regulation, and firearms regulation.
 
-Estate planning, taxation, artificial intelligence. 
+### Admissions
+
+Admitted to the bars of the State of California (No. 287866), United States District Court for the Northern District of California, and the United States Court of Appeals for the Ninth Circuit. 
 
 
 ## Education
 
 `May 2012` 
 __University of California, Hastings College of the Law__, San Francisco, California  
-Juris Doctor  
+- Juris Doctor  
+    - ACLU Hastings Chapter, Founding Member `Fall 2009 to Spring 2012`  
+    - Federalist Society (President 2010-2011) `Fall 2009 to Spring 2012`  
+    - Hastings Constitutional Law Quarterly (Sr. Development Ed. 2011-2012) `Fall 2010 to Spring 2012`  
+    - Hastings Int’l & Comparative Law Society (Co-President 2010-2011) `Fall 2009 to Spring 2012`  
+    - Law Students for Sensible Drug Policy (Secretary 2010-2012) `Spring 2010 to Spring 2012`  
+    - Teaching Assistant, Legal Writing & Research `Fall 2010`  
 
 `May 2009` 
 __University of Southern California__, Los Angeles, California  
 _College of Letters, Arts, and Sciences_  
-- Bachelor of Arts, magna cum laude, Psychology, May 2009  
+- Bachelor of Arts, _magna cum laude_, Psychology  
 - Minor in Neuroscience  
 
 `Spring 2008` 
@@ -43,31 +51,46 @@ International Student Exchange Program
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`Fall 2012` 
+Witkin and CALI Awards for Academic Excellence: *Negotiation and Settlement*  
 
-Associate, *French Academy of Science*, Paris, France
+`Spring 2011` 
+Witkin and CALI Awards for Academic Excellence: *Arbitration*  
 
+`Fall 2010` 
+Honorable Mention: Moot Court Oral Argument and Written Brief  
+
+`Fall 2009` 
+Witkin and CALI Awards for Academic Excellence: *Legal Writing*  
+
+`Fall 2007 to Present` 
+Golden Key International Honour Society  
+National Society of Collegiate Scholars  
+Psi Chi National Psychology Honors Society (Executive Board 2008-2009)  
+
+`Spring 2006 to Present` 
+Alpha Lambda Delta Honors Society  
+
+`Fall 2005 to Spring 2009` 
+USC Dean's List  
+USC Presidential Scholar  
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2012` 
+_Spreading the Wealth: Is Asset Forfeiture the Key to Enticing Local Agencies to Enforce Federal Drug Laws?_, 39 Hastings Const. L.Q. 569-91 (2012).  
 
-`1669`
-Lectiones opticæ.
+<a href="assets/Published - 39 Hastings Const. L.Q. 569-91.pdf">View Online as PDF</a>
 
-etc. etc. etc.
 
-### Patents
+### Presentations
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2022` 
+_The Intersection of Probate and Firearms, Selected Topics_  
+Superior Court of Los Angeles Probate Education Committee, May 12, 2022  
 
 
 ## Experience
@@ -102,6 +125,7 @@ __Kumin Sommers LLP__, San Francisco, CA
 _Law Clerk_  
 - Drafted complaints, pretrial motions, and a tax court petition  
 - Compiled and responded to pretrial discovery requests  
+- Collected and analyzed California public records for use as evidence in litigation  
 
 `Jun 2010 to Jul 2010` 
 __Office of the City Attorney__, Redondo Beach, CA  
