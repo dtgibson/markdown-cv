@@ -1,45 +1,45 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: David Gibson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# David Gibson
+Attorney
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="david@davidtgibsonesq.com">david@davidtgibsonesq.com</a>
+| <a href="https://www.davidtgibsonesq.com">Homepage - Curriculum Vitae</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Probate Attorney at Los Angeles Superior Court.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Extensive knowledge in the areas of wills and trusts, guardianship, conservatorship, family law, and California civil procedure.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Estate planning, taxation, artifical intelligence.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`May 2012`
+__University of California, Hastings College of the Law, San Francisco, California__
+Juris Doctor
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`May 2009`
+__University of Southern California, Los Angeles, California__
+_College of Letters, Arts, and Sciences_
+- Bachelor of Arts, magna cum laude, Psychology, May 2009
+- Minor in Neuroscience
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`Spring 2008`
+__University College London, London, England__
+International Student Exchange Program
 
 
 ## Awards
