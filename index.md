@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: David Gibson's Curriculum Vitae
+title: David T. Gibson | Curriculum Vitae
 ---
 
-# David Gibson 
+# David T. Gibson 
 Attorney at Law 
 
 <div id="webaddress">
