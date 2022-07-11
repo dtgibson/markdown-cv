@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: David Gibson's CV
+title: David Gibson's Curriculum Vitae
 ---
 
 # David Gibson 
 Attorney at Law 
 
 <div id="webaddress">
-<a href="david@davidtgibsonesq.com">david@davidtgibsonesq.com</a> | <a href="https://www.davidtgibsonesq.com">Curriculum Vitae</a>
+<a href="mailto:david@davidtgibsonesq.com">david@davidtgibsonesq.com</a> | <a href="https://www.davidtgibsonesq.com">Curriculum Vitae</a>
 </div>
 
 
