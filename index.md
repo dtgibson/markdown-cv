@@ -26,18 +26,18 @@ Estate planning, taxation, artificial intelligence.
 
 ## Education
 
-`May 2012`  
-__University of California, Hastings College of the Law, San Francisco, California__  
+`May 2012` 
+__University of California, Hastings College of the Law__, San Francisco, California  
 Juris Doctor  
 
-`May 2009`  
-__University of Southern California, Los Angeles, California__  
+`May 2009` 
+__University of Southern California__, Los Angeles, California  
 _College of Letters, Arts, and Sciences_  
 - Bachelor of Arts, magna cum laude, Psychology, May 2009  
 - Minor in Neuroscience  
 
-`Spring 2008`  
-__University College London, London, England__  
+`Spring 2008` 
+__University College London__, London, England  
 International Student Exchange Program  
 
 
@@ -73,60 +73,58 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 ## Experience
 
 `Oct 2018 to Present` 
-__Los Angeles Superior Court__, Los Angeles, CA 
-_Probate Attorney_ 
+__Los Angeles Superior Court__, Los Angeles, CA  
+_Probate Attorney_  
 
 `Jul 2016 to Oct 2018` 
-__Los Angeles Superior Court__, Los Angeles, CA 
-_Research Attorney, Probate_ 
-- Summarized, evaluated, and drafted tentative decisions for probate law and motion calendars 
-- Organized and prioritized all law and motion matters for ten probate departments 
-- Performed advanced research regarding substantive and procedural probate issues 
+__Los Angeles Superior Court__, Los Angeles, CA  
+_Research Attorney, Probate_  
+- Summarized, evaluated, and drafted tentative decisions for probate law and motion calendars  
+- Organized and prioritized all law and motion matters for ten probate departments  
+- Performed advanced research regarding substantive and procedural probate issues  
 
 `Jul 2014 to Jul 2016` 
-__Los Angeles Superior Court__, Los Angeles, CA 
-_Law Clerk, Probate_ 
-- Summarized, evaluated, and drafted decisions for probate law and motion calendars 
-- Prepared bench memoranda for eight judicial officers in seven departments 
-- Completed specialized research concerning California statutes, case law, and court rules 
+__Los Angeles Superior Court__, Los Angeles, CA  
+_Law Clerk, Probate_  
+- Summarized, evaluated, and drafted decisions for probate law and motion calendars  
+- Prepared bench memoranda for eight judicial officers in seven departments  
+- Completed specialized research concerning California statutes, case law, and court rules  
 
 `Mar 2013 to Jun 2014` 
-__Law and Meditation Offices of Pauline Rosen__, Manhattan Beach, CA 
-_Associate Attorney_ 
-- Made court appearances to argue and oppose motions and requests for orders 
-- Drafted pleadings, stipulated judgments, MSC and trial briefs, and meet and confer letters 
-- Assisted with trials, depositions, and settlement conferences 
+__Law and Meditation Offices of Pauline Rosen__, Manhattan Beach, CA  
+_Associate Attorney_  
+- Made court appearances to argue and oppose motions and requests for orders  
+- Drafted pleadings, stipulated judgments, MSC and trial briefs, and meet and confer letters  
+- Assisted with trials, depositions, and settlement conferences  
 
 `May 2011 to Dec 2011` 
-__Kumin Sommers LLP__, San Francisco, CA 
-_Law Clerk_ 
-- Drafted complaints, pretrial motions, and a tax court petition 
-- Compiled and responded to pretrial discovery requests 
+__Kumin Sommers LLP__, San Francisco, CA  
+_Law Clerk_  
+- Drafted complaints, pretrial motions, and a tax court petition  
+- Compiled and responded to pretrial discovery requests  
 
 `Jun 2010 to Jul 2010` 
-__Office of the City Attorney__, Redondo Beach, CA 
-_Law Clerk_ 
-- Performed legal research and prepared memoranda for city attorneys 
-- Assisted city prosecutor with misdemeanor arraignments and trials 
-- Aided in discovery and document review 
+__Office of the City Attorney__, Redondo Beach, CA  
+_Law Clerk_  
+- Performed legal research and prepared memoranda for city attorneys  
+- Assisted city prosecutor with misdemeanor arraignments and trials  
+- Aided in discovery and document review  
 
 `Aug 2009 to May 2010` 
-__General Assistance Advocacy Project__, San Francisco, CA 
-_Legal Advocate_ 
-- Advocated for clients with welfare, landlord-tenant, and other legal issues 
-- Assisted clients with the preparation of letters and legal paperwork 
-- Negotiated with SSI, CAAP, and food stamps caseworkers 
+__General Assistance Advocacy Project__, San Francisco, CA  
+_Legal Advocate_  
+- Advocated for clients with welfare, landlord-tenant, and other legal issues  
+- Assisted clients with the preparation of letters and legal paperwork  
+- Negotiated with SSI, CAAP, and food stamps caseworkers  
 
 `Jun 2008 to Aug 2008` 
-__Los Angeles Superior Court__, Los Angeles, CA 
-_Summer Extern to the Honorable Elizabeth Allen White_ 
-- Analyzed and summarized legal motions for judicial review 
-- Researched and briefed cases within submitted motions 
-- Assisted managing research attorney with tasks for judges 
+__Los Angeles Superior Court__, Los Angeles, CA  
+_Summer Extern to the Honorable Elizabeth Allen White_  
+- Analyzed and summarized legal motions for judicial review  
+- Researched and briefed cases within submitted motions  
+- Assisted managing research attorney with tasks for judges  
 
 
 <!-- ### Footer
 
 Last updated: July 2022 -->
-
-
