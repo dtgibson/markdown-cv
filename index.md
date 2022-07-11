@@ -17,7 +17,7 @@ Probate Attorney at Los Angeles Superior Court.
 
 ### Specialized in
 
-Extensive knowledge in the areas of wills and trusts, guardianship, conservatorship, family law, and California civil procedure.
+Wills and trusts, guardianship, and conservatorship. Family law. California civil procedure.
 
 ### Research interests
 
@@ -51,8 +51,6 @@ Associate, *French Academy of Science*, Paris, France
 
 
 ## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
