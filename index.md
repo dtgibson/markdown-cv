@@ -21,7 +21,7 @@ Extensive knowledge in the areas of wills and trusts, guardianship, conservators
 
 ### Research interests
 
-Estate planning, taxation, artifical intelligence. 
+Estate planning, taxation, artificial intelligence. 
 
 
 ## Education
@@ -70,21 +70,63 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
+## Experience
 
-`1600`
-__Royal Mint__, London
+`Oct 2018 to Present` 
+__Los Angeles Superior Court__, Los Angeles, CA 
+Probate Attorney 
 
-- Warden
-- Minted coins
+`Jul 2016 to Oct 2018` 
+__Los Angeles Superior Court__, Los Angeles, CA 
+Research Attorney, Probate 
+- Summarized, evaluated, and drafted tentative decisions for probate law and motion calendars 
+- Organized and prioritized all law and motion matters for ten probate departments 
+- Performed advanced research regarding substantive and procedural probate issues 
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Jul 2014 to Jul 2016` 
+__Los Angeles Superior Court__, Los Angeles, CA 
+Law Clerk, Probate 
+-	Summarized, evaluated, and drafted decisions for probate law and motion calendars 
+-	Prepared bench memoranda for eight judicial officers in seven departments 
+-	Completed specialized research concerning California statutes, case law, and court rules 
 
+`Mar 2013 to Jun 2014` 
+__Law and Meditation Offices of Pauline Rosen__, Manhattan Beach, CA 
+Associate Attorney 
+-	Made court appearances to argue and oppose motions and requests for orders 
+-	Drafted pleadings, stipulated judgments, MSC and trial briefs, and meet and confer letters 
+-	Assisted with trials, depositions, and settlement conferences 
+
+`May 2011 to Dec 2011` 
+__Kumin Sommers LLP__, San Francisco, CA 
+Law Clerk 
+-	Drafted complaints, pretrial motions, and a tax court petition 
+-	Compiled and responded to pretrial discovery requests 
+
+`Jun 2010 to Jul 2010` 
+__Office of the City Attorney__, Redondo Beach, CA 
+Law Clerk 
+-	Performed legal research and prepared memoranda for city attorneys 
+- Assisted city prosecutor with misdemeanor arraignments and trials 
+- Aided in discovery and document review 
+
+`Aug 2009 to May 2010` 
+__General Assistance Advocacy Project__, San Francisco, CA 
+Legal Advocate 
+-	Advocated for clients with welfare, landlord-tenant, and other legal issues 
+- Assisted clients with the preparation of letters and legal paperwork 
+- Negotiated with SSI, CAAP, and food stamps caseworkers 
+
+`Jun 2008 to Aug 2008` 
+__Los Angeles Superior Court__, Los Angeles, CA 
+Summer Extern to the Honorable Elizabeth Allen White 
+-	Analyzed and summarized legal motions for judicial review 
+- Researched and briefed cases within submitted motions 
+- Assisted managing research attorney with tasks for judges 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2022 -->
 
 
