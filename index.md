@@ -31,7 +31,7 @@ __University of California, Hastings College of the Law, San Francisco, Californ
 - Juris Doctor 
 
 `May 2009` 
-__University of Southern California, Los Angeles, California__ 
+__University of Southern California, Los Angeles, California__  
 _College of Letters, Arts, and Sciences_ 
 - Bachelor of Arts, magna cum laude, Psychology, May 2009 
 - Minor in Neuroscience 
