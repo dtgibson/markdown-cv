@@ -2,12 +2,12 @@
 layout: cv
 title: David Gibson's CV
 ---
-# David Gibson
-Attorney
+
+# David Gibson 
+Attorney at Law 
 
 <div id="webaddress">
-<a href="david@davidtgibsonesq.com">david@davidtgibsonesq.com</a>
-| <a href="https://www.davidtgibsonesq.com">Homepage - Curriculum Vitae</a>
+<a href="david@davidtgibsonesq.com">david@davidtgibsonesq.com</a> | <a href="https://www.davidtgibsonesq.com">Curriculum Vitae</a>
 </div>
 
 
@@ -19,27 +19,26 @@ Probate Attorney at Los Angeles Superior Court.
 
 Extensive knowledge in the areas of wills and trusts, guardianship, conservatorship, family law, and California civil procedure.
 
-
 ### Research interests
 
-Estate planning, taxation, artifical intelligence.
+Estate planning, taxation, artifical intelligence. 
 
 
 ## Education
 
-`May 2012`
-__University of California, Hastings College of the Law, San Francisco, California__
-Juris Doctor
+`May 2012` 
+__University of California, Hastings College of the Law, San Francisco, California__ 
+Juris Doctor 
 
-`May 2009`
-__University of Southern California, Los Angeles, California__
-_College of Letters, Arts, and Sciences_
-- Bachelor of Arts, magna cum laude, Psychology, May 2009
-- Minor in Neuroscience
+`May 2009` 
+__University of Southern California, Los Angeles, California__ 
+_College of Letters, Arts, and Sciences_ 
+- Bachelor of Arts, magna cum laude, Psychology, May 2009 
+- Minor in Neuroscience 
 
-`Spring 2008`
-__University College London, London, England__
-International Student Exchange Program
+`Spring 2008` 
+__University College London, London, England__ 
+International Student Exchange Program 
 
 
 ## Awards
