@@ -109,7 +109,7 @@ _Research Attorney, Probate_
 `Jul 2014 to Jul 2016` 
 __Los Angeles Superior Court__, Los Angeles, CA  
 _Law Clerk, Probate_  
-- Summarized, evaluated, and drafted decisions for probate law and motion calendars  
+- Summarized, evaluated, and drafted tentative decisions for probate law and motion calendars  
 - Prepared bench memoranda for eight judicial officers in seven departments  
 - Completed specialized research concerning California statutes, case law, and court rules  
 
