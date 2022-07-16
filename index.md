@@ -31,12 +31,12 @@ Admitted to the bars of the State of California (No. 287866), United States Dist
 `May 2012` 
 __University of California, Hastings College of the Law__, San Francisco, California  
 - Juris Doctor  
-    - ACLU Hastings Chapter, Founding Member `Fall 2009 to Spring 2012`  
-    - Federalist Society (President 2010-2011) `Fall 2009 to Spring 2012`  
-    - Hastings Constitutional Law Quarterly (Sr. Development Ed. 2011-2012) `Fall 2010 to Spring 2012`  
-    - Hastings Int’l & Comparative Law Society (Co-President 2010-2011) `Fall 2009 to Spring 2012`  
-    - Law Students for Sensible Drug Policy (Secretary 2010-2012) `Spring 2010 to Spring 2012`  
-    - Teaching Assistant, Legal Writing & Research `Fall 2010`  
+    - ACLU Hastings Chapter, Founding Member  
+    - Federalist Society (President 2010-2011)  
+    - Hastings Constitutional Law Quarterly (Sr. Development Ed. 2011-2012)  
+    - Hastings Int’l & Comparative Law Society (Co-President 2010-2011)  
+    - Law Students for Sensible Drug Policy (Secretary 2010-2012)  
+    - Teaching Assistant, Legal Writing & Research  
 
 `May 2009` 
 __University of Southern California__, Los Angeles, California  
@@ -83,7 +83,7 @@ USC Presidential Scholar
 `2012` 
 _Spreading the Wealth: Is Asset Forfeiture the Key to Enticing Local Agencies to Enforce Federal Drug Laws?_, 39 Hastings Const. L.Q. 569-91 (2012).  
 
-<a href="assets/Published - 39 Hastings Const. L.Q. 569-91.pdf">View Online as PDF</a>
+[View Online as PDF](Published - 39 Hastings Const. L.Q. 569-91.pdf)
 
 
 ### Presentations
