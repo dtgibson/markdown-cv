@@ -7,7 +7,7 @@ title: David T. Gibson | Curriculum Vitae
 Attorney at Law 
 
 <div id="webaddress">
-<a href="mailto:david@davidtgibsonesq.com">david@davidtgibsonesq.com</a> | <a href="https://www.davidtgibsonesq.com">Curriculum Vitae</a>
+[david@davidtgibsonesq.com](mailto:david@davidtgibsonesq.com) | [Curriculum Vitae](https://www.davidtgibsonesq.com)
 </div>
 
 
