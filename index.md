@@ -30,19 +30,19 @@ Admitted to the bars of the State of California (No. 287866), United States Dist
 
 `May 2012` 
 __University of California, Hastings College of the Law__, San Francisco, California  
-- Juris Doctor  
-    - ACLU Hastings Chapter, Founding Member  
-    - Federalist Society (President 2010-2011)  
-    - Hastings Constitutional Law Quarterly (Sr. Development Ed. 2011-2012)  
-    - Hastings Int’l & Comparative Law Society (Co-President 2010-2011)  
-    - Law Students for Sensible Drug Policy (Secretary 2010-2012)  
-    - Teaching Assistant, Legal Writing & Research  
+___Juris Doctor___  
+- ACLU Hastings Chapter, Founding Member  
+- Federalist Society (President 2010-2011)  
+- Hastings Constitutional Law Quarterly (Sr. Development Ed. 2011-2012)  
+- Hastings Int’l & Comparative Law Society (Co-President 2010-2011)  
+- Law Students for Sensible Drug Policy (Secretary 2010-2012)  
+- Teaching Assistant, Legal Writing & Research  
 
 `May 2009` 
 __University of Southern California__, Los Angeles, California  
-_College of Letters, Arts, and Sciences_  
-- Bachelor of Arts, _magna cum laude_, Psychology  
-- Minor in Neuroscience  
+College of Letters, Arts, and Sciences  
+___Bachelor of Arts, magna cum laude, Psychology___  
+___Minor in Neuroscience___  
 
 `Spring 2008` 
 __University College London__, London, England  
