@@ -89,6 +89,10 @@ _Spreading the Wealth: Is Asset Forfeiture the Key to Enticing Local Agencies to
 ### Presentations
 
 `2022` 
+Expert Guest. _Choosing to File in Probate or Civil_  
+California Lawyers Association Trust Me! Podcast, October 31, 2022  
+
+`2022` 
 _The Intersection of Probate and Firearms, Selected Topics_  
 Superior Court of Los Angeles Probate Education Committee, May 12, 2022  
 
